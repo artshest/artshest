@@ -22,7 +22,7 @@
   <tr>
     <td width="55%">
       <a href="https://github.com/artshest/kknights-typing-game">
-        <img src="https://raw.githubusercontent.com/artshest/kknights-typing-game/main/docs/images/gameplay.gif" alt="KKnights Typing Game gameplay">
+        <img src="https://github.com/user-attachments/assets/1c321ac6-711f-4fc4-99d0-16b55208bca5" alt="gameplay">
       </a>
     </td>
     <td>
